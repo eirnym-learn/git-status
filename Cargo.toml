@@ -8,7 +8,7 @@ license-file = "LICENSE.txt"
 git2 = "0.18.3"
 hostname = "0.3.1"
 chrono = "0.4.35"
-clap = { version = "4.5.3", features = ["derive"] }
+clap = { version = "4.5.4", features = ["derive"] }
 enum-map = "2.7.3"
 
 [dev-dependencies]
