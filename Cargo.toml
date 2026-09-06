@@ -13,7 +13,7 @@ enum-map = "2.7.3"
 
 [dev-dependencies]
 pretty_assertions = "1.4.0"
-rstest = "0.26.0"
+rstest = "0.27.0"
 
 [profile.release]
 strip = true
